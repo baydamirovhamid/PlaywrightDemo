@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99470\\Desktop\\Automation\\playwright-dotnet\\PlaywrightDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB282C94-9839-9E8F-D08C-EB716F89BD54}|PlaywrightDemo.csproj|c:\\users\\99470\\desktop\\automation\\playwright-dotnet\\playwrightdemo\\nunitplaywright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB282C94-9839-9E8F-D08C-EB716F89BD54}|PlaywrightDemo.csproj|solutionrelative:nunitplaywright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB282C94-9839-9E8F-D08C-EB716F89BD54}|PlaywrightDemo.csproj|c:\\users\\99470\\desktop\\automation\\playwright-dotnet\\playwrightdemo\\playwrightdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB282C94-9839-9E8F-D08C-EB716F89BD54}|PlaywrightDemo.csproj|solutionrelative:playwrightdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NUnitPlaywright.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Automation\\playwright-dotnet\\PlaywrightDemo\\NUnitPlaywright.cs",
+              "RelativeDocumentMoniker": "NUnitPlaywright.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\Automation\\playwright-dotnet\\PlaywrightDemo\\NUnitPlaywright.cs",
+              "RelativeToolTip": "NUnitPlaywright.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:19:57.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaywrightDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Automation\\playwright-dotnet\\PlaywrightDemo\\PlaywrightDemo.csproj",
+              "RelativeDocumentMoniker": "PlaywrightDemo.csproj",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\Automation\\playwright-dotnet\\PlaywrightDemo\\PlaywrightDemo.csproj",
+              "RelativeToolTip": "PlaywrightDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-03T16:53:24.73Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
