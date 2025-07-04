@@ -3,7 +3,7 @@ using Microsoft.Playwright.NUnit;
 
 namespace PlaywrightDemo;
 
-public class NUnitPlaywright: PageTest
+public class NUnitPlaywright : PageTest
 {
     [SetUp]
     public async Task Setup()
@@ -15,10 +15,18 @@ public class NUnitPlaywright: PageTest
     [Test]
     public async Task Test1()
     {
-        await Page.ClickAsync("text=Login");
+        var lnkLogin = Page.Locator("text=Login");
+        await lnkLogin.ClickAsync();
+
+        //await Page.ClickAsync("text=Login");
         await Page.FillAsync("#UserName", "admin");
         await Page.FillAsync("#Password", "password");
-        await Page.ClickAsync("text=Login");
+
+        var btnLogin = Page.Locator("input", new PageLocatorOptions { HasTextString = "Log in" });
+        await btnLogin.ClickAsync();
+
+
+        //await Page.ClickAsync("text=Login");
         await Expect(Page.Locator("text = Employee List")).ToBeVisibleAsync();
     }
 }

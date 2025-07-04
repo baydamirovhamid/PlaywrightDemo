@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\99470\\Desktop\\Automation\\playwright-dotnet\\PlaywrightDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB282C94-9839-9E8F-D08C-EB716F89BD54}|PlaywrightDemo.csproj|c:\\users\\99470\\desktop\\automation\\playwright-dotnet\\playwrightdemo\\nunitplaywright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB282C94-9839-9E8F-D08C-EB716F89BD54}|PlaywrightDemo.csproj|solutionrelative:nunitplaywright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB282C94-9839-9E8F-D08C-EB716F89BD54}|PlaywrightDemo.csproj|c:\\users\\99470\\desktop\\automation\\playwright-dotnet\\playwrightdemo\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB282C94-9839-9E8F-D08C-EB716F89BD54}|PlaywrightDemo.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB282C94-9839-9E8F-D08C-EB716F89BD54}|PlaywrightDemo.csproj|c:\\users\\99470\\desktop\\automation\\playwright-dotnet\\playwrightdemo\\playwrightdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BB282C94-9839-9E8F-D08C-EB716F89BD54}|PlaywrightDemo.csproj|solutionrelative:playwrightdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BB282C94-9839-9E8F-D08C-EB716F89BD54}|PlaywrightDemo.csproj|c:\\users\\99470\\desktop\\automation\\playwright-dotnet\\playwrightdemo\\pages\\loginpageupgraded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB282C94-9839-9E8F-D08C-EB716F89BD54}|PlaywrightDemo.csproj|solutionrelative:pages\\loginpageupgraded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +26,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NUnitPlaywright.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Automation\\playwright-dotnet\\PlaywrightDemo\\NUnitPlaywright.cs",
-              "RelativeDocumentMoniker": "NUnitPlaywright.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Automation\\playwright-dotnet\\PlaywrightDemo\\NUnitPlaywright.cs",
-              "RelativeToolTip": "NUnitPlaywright.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LoginPageUpgraded.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Automation\\playwright-dotnet\\PlaywrightDemo\\Pages\\LoginPageUpgraded.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPageUpgraded.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\Automation\\playwright-dotnet\\PlaywrightDemo\\Pages\\LoginPageUpgraded.cs",
+              "RelativeToolTip": "Pages\\LoginPageUpgraded.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T17:19:57.804Z",
+              "WhenOpened": "2025-07-04T20:18:49.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlaywrightDemo.csproj",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Automation\\playwright-dotnet\\PlaywrightDemo\\PlaywrightDemo.csproj",
-              "RelativeDocumentMoniker": "PlaywrightDemo.csproj",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Automation\\playwright-dotnet\\PlaywrightDemo\\PlaywrightDemo.csproj",
-              "RelativeToolTip": "PlaywrightDemo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-03T16:53:24.73Z"
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Automation\\playwright-dotnet\\PlaywrightDemo\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\Automation\\playwright-dotnet\\PlaywrightDemo\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:16:45.878Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,11 @@
+notepad .gitignore
+
+bin/
+obj/
+.vs/
+TestResults/
+*.user
+*.suo
+*.vsidx
+*.db
+
