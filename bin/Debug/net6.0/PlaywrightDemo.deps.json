@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "PlaywrightDemo/1.0.0": {
         "dependencies": {
+          "FluentAssertions": "8.4.0",
           "Microsoft.NET.Test.Sdk": "17.12.0",
           "Microsoft.Playwright": "1.53.0",
           "Microsoft.Playwright.NUnit": "1.53.0",
@@ -21,6 +22,14 @@
         }
       },
       "coverlet.collector/6.0.2": {},
+      "FluentAssertions/8.4.0": {
+        "runtime": {
+          "lib/net6.0/FluentAssertions.dll": {
+            "assemblyVersion": "8.4.0.0",
+            "fileVersion": "8.4.0.0"
+          }
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
         "runtime": {
           "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
@@ -385,6 +394,13 @@
       "sha512": "sha512-bJShQ6uWRTQ100ZeyiMqcFlhP7WJ+bCuabUs885dJiBEzMsJMSFr7BOyeCw4rgvQokteGi5rKQTlkhfQPUXg2A==",
       "path": "coverlet.collector/6.0.2",
       "hashPath": "coverlet.collector.6.0.2.nupkg.sha512"
+    },
+    "FluentAssertions/8.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EL0ckSJMGfJTiDF0EFU48bV/iIsgFKCaHEpp5LxqjNO0RhfF3WxQuNWosX2L/Xwt8VRRLE8TgN4tSzTTiZAfdA==",
+      "path": "fluentassertions/8.4.0",
+      "hashPath": "fluentassertions.8.4.0.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
       "type": "package",

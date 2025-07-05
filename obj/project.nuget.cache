@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rFpolebAHLM=",
+  "dgSpecHash": "Qlff16LaREA=",
   "success": true,
   "projectFilePath": "C:\\Users\\99470\\Desktop\\Automation\\playwright-dotnet\\PlaywrightDemo\\PlaywrightDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\99470\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\99470\\.nuget\\packages\\fluentassertions\\8.4.0\\fluentassertions.8.4.0.nupkg.sha512",
     "C:\\Users\\99470\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\99470\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
     "C:\\Users\\99470\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\microsoft.net.test.sdk.17.12.0.nupkg.sha512",
